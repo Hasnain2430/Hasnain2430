@@ -1,32 +1,19 @@
-<h1 align="center">Hasnain Ibrar</h1>
-<p align="center">AI Engineer — LLMs, RAG, and multi-agent systems</p>
+## Hi, I'm Hasnain
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/hasnain-ibrar-butt/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:Hasnain2430@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-  <img src="https://img.shields.io/badge/Doha,_Qatar-333?style=flat-square&logo=googlemaps&logoColor=white" alt="Doha, Qatar">
-</p>
+AI engineer based in Doha, Qatar. BS Artificial Intelligence at FAST NUCES, Islamabad.
 
----
+I work on LLM systems — RAG pipelines, agents that coordinate with each other, and the backends that hold them up. Mostly Python and TypeScript.
 
-Based in Doha, Qatar. BS Artificial Intelligence at FAST NUCES, Islamabad. I build systems where a language model does real work: agents that coordinate, retrieval that stays honest about its sources, and small products people actually run.
+**Some things I've built**
 
-Python · TypeScript · LangChain · LangGraph · FastAPI · Transformers · Pinecone · Next.js · Postgres · Docker · AWS
+- [IoT Vulnerability XAI](https://github.com/Hasnain2430/iot-vuln-explainable-ai) — transformer that predicts vulnerability severity and type, with SHAP explanations
+- [Secure Multi-Tenant RAG](https://github.com/Hasnain2430/Secure-Multi-Tenant-RAG-System) — RAG with tenant isolation, ACLs and PII masking
+- [Airspace Copilot](https://github.com/Hasnain2430/Real-Time-Airspace-Copilot-with-Agentic-Multi-Agent-System) — LangGraph agents watching live flight data for anomalies
+- [CrisisSim](https://github.com/Hasnain2430/CrisisSim-Agentic-AI-for-Disaster-Management) — multi-agent disaster response simulation
+- [RAG Voice Agent](https://github.com/Hasnain2430/RAG-Voice-Agent) — ask by voice, get three grounded answers ranked against each other
 
-### Work
+Also contribute to [vidxp](https://github.com/grayhatdevelopers/vidxp), a video indexing engine for agents.
 
-- **[IoT Vulnerability XAI](https://github.com/Hasnain2430/iot-vuln-explainable-ai)** — Multi-task transformer predicting CVSS severity and CWE type, with SHAP explanations. 0.729 F1 over 28,902 records.
-- **[Secure Multi-Tenant RAG](https://github.com/Hasnain2430/Secure-Multi-Tenant-RAG-System)** — Tenant isolation enforced at retrieval, not in the prompt. ACLs, PII masking, injection detection.
-- **[Airspace Copilot](https://github.com/Hasnain2430/Real-Time-Airspace-Copilot-with-Agentic-Multi-Agent-System)** — LangGraph agents watching live flight data for anomalies.
-- **[CrisisSim](https://github.com/Hasnain2430/CrisisSim-Agentic-AI-for-Disaster-Management)** — Multi-agent disaster response using ReAct reasoning.
-- **[RAG Voice Agent](https://github.com/Hasnain2430/RAG-Voice-Agent)** — Ask by voice, three grounded answers streamed and ranked against each other.
+Currently finishing MindEase, an AI mental health companion, as my final year project.
 
-### Open source
-
-**[grayhatdevelopers/vidxp](https://github.com/grayhatdevelopers/vidxp)** (⭐ 52) — video indexing engine for agents. Added [bulk indexing](https://github.com/grayhatdevelopers/vidxp/pull/158) and [path-resolution test fixes](https://github.com/grayhatdevelopers/vidxp/pull/154). 24 merged PRs total across open source and team codebases.
-
-<!-- STATS -->
-
-### Currently
-
-Final year project **MindEase**, an AI mental health companion. Open to AI engineering roles — [email](mailto:Hasnain2430@gmail.com) is fastest.
+Reach me at [Hasnain2430@gmail.com](mailto:Hasnain2430@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/hasnain-ibrar-butt/).
