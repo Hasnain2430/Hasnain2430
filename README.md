@@ -10,7 +10,10 @@
 
 I build web products end to end and make the AI parts inside them reliable enough to ship.
 
-That usually means React or Next.js on the front, Node or FastAPI behind it, Postgres underneath, and a lot of time spent on the parts that decide whether it survives real use: generated SQL that gets checked before it runs, retrieval with real access control, safety logic that doesn't depend on the model behaving, and queries that were slow until someone profiled them.
+- **Whole products, not prototypes** — React and Next.js frontends, Node and FastAPI backends, Postgres underneath, and the deployment nobody posts about
+- **AI that gets checked** — generated SQL reviewed before it runs against a read-only database, retrieval with real access control, safety logic that doesn't depend on the model behaving
+- **Finding where the time goes** — profiling slow endpoints, indexing, caching, and fixing the thing that's actually slow instead of the thing that looks slow
+- **Building with the people who'll use it** — sitting with users first, shipping, then changing it based on what they say
 
 BS in Artificial Intelligence, FAST NUCES.
 
@@ -25,6 +28,10 @@ BS in Artificial Intelligence, FAST NUCES.
   <img src="https://img.shields.io/badge/Postgres-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="Postgres">
   <img src="https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white" alt="Redis">
 </p>
+
+### Work
+
+Most of what I build day to day is closed source, so it isn't here. The current one is a sports analytics platform I'm the only engineer on: a 40+ page React app with custom visualisations, Node and FastAPI services, a Postgres database built from a pipeline covering millions of rows, subscription-based access control, and a chat that turns plain questions into SQL and checks the query before letting it near the database. Before that, email and calendar integration for an AI assistant, where nothing ran without the user approving it first.
 
 ### Open source
 
