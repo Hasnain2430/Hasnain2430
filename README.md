@@ -4,12 +4,13 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/hasnain-ibrar-butt/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:Hasnain2430@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-  <img src="https://img.shields.io/badge/Islamabad,_PK-333?style=flat-square&logo=googlemaps&logoColor=white" alt="Islamabad, Pakistan">
+  <img src="https://img.shields.io/badge/Doha,_Qatar-333?style=flat-square&logo=googlemaps&logoColor=white" alt="Doha, Qatar">
+  <img src="https://img.shields.io/github/followers/Hasnain2430?style=flat-square&logo=github&logoColor=white&labelColor=24292f&color=555" alt="Followers">
 </p>
 
 ---
 
-BS Artificial Intelligence at **FAST NUCES, Islamabad** (Dean's List). Previously AI/ML intern at **AlphaBridge**, building ETL pipelines and deploying on AWS.
+Based in **Doha, Qatar**. BS Artificial Intelligence at **FAST NUCES, Islamabad** (Dean's List). Previously AI/ML intern at **AlphaBridge**, building ETL pipelines and deploying on AWS.
 
 I build systems where a language model does real work instead of decorating a demo: agents that coordinate, retrieval that stays honest about its sources, and small products that people actually run. Most of what I ship is Python on the AI side and Next.js on the product side.
 
@@ -38,17 +39,23 @@ I build systems where a language model does real work instead of decorating a de
 
 **[Handwritten Notes OCR](https://github.com/Hasnain2430/-handwritten-notes-ocr)** — Turns photos of messy lecture notes into editable `.docx` with structure intact, using a line-level DB + CRNN pipeline and a zero-text-drop policy.
 
+### Open source
+
+Contributor to **[grayhatdevelopers/vidxp](https://github.com/grayhatdevelopers/vidxp)** (⭐ 52) — a video indexing engine that lets agents search inside video in natural language at low token cost. Work there:
+
+- [#158](https://github.com/grayhatdevelopers/vidxp/pull/158) — bulk indexing for many media items in one pass *(merged)*
+- [#154](https://github.com/grayhatdevelopers/vidxp/pull/154) — fixed tests to compare resolved paths where the product resolves them *(merged)*
+- [#155](https://github.com/grayhatdevelopers/vidxp/pull/155) — corrected the contributor test command in the docs *(open)*
+
+Beyond that, 24 merged pull requests across team codebases — mostly real-time sports broadcast tooling and data pipelines.
+
 ### Stats
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Hasnain2430&show_icons=true&hide_border=true&include_all_commits=true&theme=github_dark">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=Hasnain2430&show_icons=true&hide_border=true&include_all_commits=true" alt="GitHub stats">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Hasnain2430&layout=compact&hide_border=true&langs_count=8&theme=github_dark">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hasnain2430&layout=compact&hide_border=true&langs_count=8" alt="Top languages">
-  </picture>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hasnain2430&theme=github" alt="Profile summary">
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hasnain2430&theme=github" alt="Top languages by repo">
 </p>
 
 ### Currently
